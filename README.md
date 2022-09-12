@@ -1,5 +1,5 @@
-<h3 align="center">Instagram Cracking</h3>
-<h3 align="left">BySoraaa🔥🔥</h3>
+<h1 align="center"> INSTAGRAM CRACKING </h1>
+<h1 align="center">BySoraaa🔥🔥</h1>
 
 
 <h3 align="left">Tampilan Menu:</h3>
