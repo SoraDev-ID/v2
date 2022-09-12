@@ -1,5 +1,5 @@
 <h3 align="left">Instagram Cracking</h3>
-<h3 align="left">BySoraaa</h3>
+<h3 align="left">BySoraaa🔥🔥</h3>
 
 
 <h3 align="left">Tampilan Menu:</h3>
@@ -22,7 +22,7 @@
        $ pip install bs4
        $ pip install rich
        $ git clone https://github.com/SoraDev-ID/v2
-       $ cd V2
+       $ cd v2
        $ ls
        $ python run.py
 
