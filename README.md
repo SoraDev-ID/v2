@@ -36,8 +36,8 @@
 
 <h3 align="left">Harga License:</h3>
      
-     - 1 Bulan  : 150.000
-     - Open Source  : 500.000
+     - SILAHKAN CONTAC SAYA MELALUI LINK DIBAWAH
+     - TERIMA KASIH🔥
 
 <h3 align="left">Connect with me:</h3>
 
