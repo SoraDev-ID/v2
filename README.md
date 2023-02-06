@@ -33,7 +33,7 @@
        $ ls
        $ python run.py
        
-<h3> :warning:Note! : We don't Accept any responsibility for any illegal usage.</h3><br>
+<h3> :warning:Note! : I take NO responsibility for the use of this script. This code is intended for educational purposes. Please DO NOT use this program for malicious purposes.</h3><br>
 
 <br>
 
