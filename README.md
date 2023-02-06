@@ -32,7 +32,10 @@
        $ cd v2
        $ ls
        $ python run.py
+       
+<h3> :warning:Note! : We don't Accept any responsibility for any illegal usage.</h3><br>
 
+<br>
 
 <h3 align="left">Harga License:</h3>
      
