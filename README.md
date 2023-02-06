@@ -37,10 +37,10 @@
 
 <br>
 
-<h3 align="left">Harga License:</h3>
+
      
-     - SILAHKAN CONTAC SAYA MELALUI LINK DIBAWAH
-     - TERIMA KASIH🔥
+
+
 
 <h3 align="left">Connect with me:</h3>
 
