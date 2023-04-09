@@ -44,9 +44,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/SoraDev-ID) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/Soraaid) 
-
-
- [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/SoraDev)[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6287752662364?text=Hello+Sora🔥+)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SORA-dimgray?style=flat-square&logo=github)](https://github.com/SoraDev-ID)<br> [![Facebook](https://img.shields.io/badge/Facebook-SORA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100000640058506&mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SORA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6287752662364)
 
 
