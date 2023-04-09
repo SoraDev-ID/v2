@@ -3,8 +3,7 @@
 
 
 <h3 align="left">Tampilan Menu:</h3>
-<a href="https://ibb.co/1Rhmk8W"><img src="https://i.ibb.co/7r81q2m/Screenshot-20220913-035456-Termux.png" alt="Screenshot-20220913-035456-Termux" border="0"></a>
-
+<a href="https://ibb.co/b3FSzfx"><img src="https://i.ibb.co/8BbW6hJ/Screenshot-20230409-180018-Termux.png" alt="Screenshot-20230409-180018-Termux" border="0"></a>
 <h3 align="left">Cara Install Script:</h3>
 
 - Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://bit.ly/Link-termuxxxx">Klik Disini</a>
