@@ -37,6 +37,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SORA-dimgray?style=flat-square&logo=github)](https://github.com/SoraDev-ID)<br> [![Facebook](https://img.shields.io/badge/Facebook-SORA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100000640058506&mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SORA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6287752662364)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SORA-dimgray?style=flat-square&logo=github)](https://github.com/SoraDev-ID)<br> [![Facebook](https://img.shields.io/badge/Facebook-SORA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100000640058506&mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SORA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/6285965855784))
 
 
